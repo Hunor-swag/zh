@@ -1,0 +1,2 @@
+# zh
+Szoftverfejlesztés zh repo
